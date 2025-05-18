@@ -32,5 +32,9 @@
   "yaml.format.enable": true,
   "yaml.hover": true,
   "yaml.completion": true,
-  "yaml.schemaStore.enable": false
+  "yaml.schemaStore.enable": false,
+  "yaml.customTags": [
+    "!ignore",
+    "!NoisyNeighborWarning off"
+  ]
 }

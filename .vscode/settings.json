@@ -28,7 +28,7 @@
   "yaml.schemas": {
     "https://raw.githubusercontent.com/instrumenta/kubernetes-json-schema/master/v1.33.1-standalone-strict/all.json": "*.yaml"
   },
-  "yaml.validate": true,
+  "yaml.validate": false,
   "yaml.format.enable": true,
   "yaml.hover": true,
   "yaml.completion": true,
